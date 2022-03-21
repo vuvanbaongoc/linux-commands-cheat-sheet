@@ -1,5 +1,5 @@
 # linux-commands-cheat-sheet
-- [MultiTail](https://www.tecmint.com/view-multiple-files-in-linux/) - Monitor Multiple Files Simultaneously in a Single Linux Terminal
+1. [MultiTail](https://www.tecmint.com/view-multiple-files-in-linux/) - Monitor Multiple Files Simultaneously in a Single Linux Terminal
 - `yum install -y multitail`
 - `multitail /var/log/apache2/error.log /var/log/apache2/error.log.1`
 - `multitail -s 2 /var/log/mysqld.log /var/log/xferlog`
